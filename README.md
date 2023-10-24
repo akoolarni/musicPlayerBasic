@@ -1,3 +1,6 @@
 # musicPlayerBasic
 
-This is a basic music player web application. The frontend is based on HTML, CSS& Javascript. The backend makes use of Jvascript & python.
+This is a basic music player web application.
+It takes a list of songs and then randomly plays it. 
+To run it on your system, copy-paste the link of the static-website below in your browser:
+LINK: 

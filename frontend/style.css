@@ -1,0 +1,113 @@
+body{
+    
+    text-align: center;
+    background-color: #5ea1aa;
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue', sans-serif;
+    background: url('backgroundpic.png')no-repeat center fixed;
+    background-size: cover;
+    
+}
+
+.A{
+    display: block;
+    
+    margin-top: 50px;
+    font-size: 40px;
+    box-sizing: border-box;
+    
+    
+
+}
+
+.B{
+
+}
+
+
+
+.box{
+    display: block;
+    text-align: center;
+    height: 100px;
+    width: 200px;
+    border: 0cap;
+    border-radius: 2px;
+    border-color: rgb(0, 0, 0);
+    margin-top: 70px;
+    margin-left: 380px;
+    background-size: cover;
+}
+
+.control{
+    border-color: rgb(0, 0, 0);
+}
+
+button{
+    border-color: rgb(255, 255, 255);
+    
+    margin-top: 3%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    border-radius: 18px;
+    font-size: 30px;
+}
+
+
+
+
+#prev{
+    border-color: rgb(0, 0, 0);
+    
+    margin-top: 3%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    border-radius: 18px;
+    font-size: 30px;
+}
+
+#pause{
+    margin-top: 3%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    border-radius: 18px;
+    font-size: 30px;
+}
+
+#play{
+    margin-top: 3%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    border-radius: 18px;
+    font-size: 30px;
+}
+
+#next{
+    margin-top: 3%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    border-radius: 18px;
+    font-size: 30px;
+}
+
+.cc{
+    height: 100px;
+    
+    border-color: rgb(1, 2, 2);
+}
+
+button:hover{
+    color: rgb(90, 32, 43);
+
+}
