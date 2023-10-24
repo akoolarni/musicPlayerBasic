@@ -21,9 +21,6 @@ body{
 
 }
 
-.B{
-
-}
 
 
 
@@ -44,7 +41,7 @@ body{
     border-color: rgb(0, 0, 0);
 }
 
-button{
+button input{
     border-color: rgb(255, 255, 255);
     
     margin-top: 3%;
@@ -54,6 +51,11 @@ button{
     padding-right: 2%;
     border-radius: 18px;
     font-size: 30px;
+    margin-right: 16px;
+}
+
+button input:last-child{
+    margin-right: 0px;
 }
 
 
@@ -69,6 +71,7 @@ button{
     padding-right: 2%;
     border-radius: 18px;
     font-size: 30px;
+    border-radius: 18px;
 }
 
 #pause{
@@ -79,6 +82,7 @@ button{
     padding-right: 2%;
     border-radius: 18px;
     font-size: 30px;
+    border-radius: 18px;
 }
 
 #play{
@@ -89,6 +93,7 @@ button{
     padding-right: 2%;
     border-radius: 18px;
     font-size: 30px;
+    border-radius: 18px;
 }
 
 #next{
